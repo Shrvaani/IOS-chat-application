@@ -1,0 +1,11 @@
+Target dependency graph (5 targets)
+StreamChat-StreamChat in Pods, no dependencies
+StreamChat in Pods, depends on:
+StreamChat-StreamChat in Pods (explicit)
+StreamChatUI-StreamChatUIResources in Pods, no dependencies
+StreamChatUI in Pods, depends on:
+StreamChat in Pods (explicit)
+StreamChatUI-StreamChatUIResources in Pods (explicit)
+Pods-iOS NCW webchat in Pods, depends on:
+StreamChat in Pods (explicit)
+StreamChatUI in Pods (explicit)

@@ -1,0 +1,33 @@
+ChatApp
+Description
+ChatApp is an iOS chat application built using Swift and Stream ChatUI. The app allows users to sign up, create channels, and chat with other users in real-time.
+
+Installation
+Clone the repository:
+shell
+
+$ git clone https://github.com/yourusername/chatapp.git
+Install dependencies using CocoaPods:
+shell
+
+$ cd chatapp
+$ pod install
+Open ChatApp.xcworkspace in Xcode.
+Build and run the app.
+
+Usage
+Sign up for a new account or log in with an existing one.
+Create a new channel or join an existing one.
+Start chatting with other users in real-time.
+
+Features
+User authentication and authorization.
+Real-time chat using Stream ChatUI.
+Creating and joining channels.
+Sending and receiving messages.
+Editing and deleting messages.
+
+
+Credits
+Stream ChatUI: https://getstream.io/chat-ui/
+Icons made by Freepik from www.flaticon.com
